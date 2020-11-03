@@ -1,7 +1,8 @@
 # Andrew-NG-Machine-Learning-Course-in-Python
 This Repository Contains code implemented by me for the Coursera Machine Learning Course taught by Profressor Andrew NG (https://www.coursera.org/learn/machine-learning).
 
-Contents:
+# Contents:
+
 Programming Assignment #1: Linear Regression (Week 2)
 
 Programming Assignment #2: Logistic Regression (Week 3)
