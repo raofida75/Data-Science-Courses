@@ -1,6 +1,6 @@
 # Applied Data Science with Python Specialization from University of Michigan
 
-This specialization covers:
+This specialization covers following courses:
 
 1) [Introduction to Data Science in Python](https://bit.ly/363Clqi)
 2) [Applied Plotting, Charting & Data Representation in Python](https://bit.ly/2TMPw9w)
