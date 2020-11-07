@@ -4,10 +4,10 @@ This Repository Contains code implemented by me for the Coursera Machine Learnin
 # Contents:
 
 Programming Assignment #1 (Week 2):
-- [Linear Regression from scratch]('https://github.com/raofida75/Data-Science-Courses/blob/main/Coursera%20--%20Machine-Learning/Week%202/ex1/GD%20Algorithm.ipynb') 
+- [Linear Regression from scratch](https://github.com/raofida75/Data-Science-Courses/blob/main/Coursera%20--%20Machine-Learning/Week%202/ex1/GD%20Algorithm.ipynb) 
 
 Programming Assignment #2 (Week 3): 
-- [Logistic Regression from scratch]('https://bit.ly/36aVczW')
+- [Logistic Regression from scratch](https://bit.ly/36aVczW)
 
 Programming Assignment #3 (Week 4): 
 - [Multi-class Classification](https://bit.ly/353kFMq)
