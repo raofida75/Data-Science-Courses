@@ -3,18 +3,30 @@ This Repository Contains code implemented by me for the Coursera Machine Learnin
 
 # Contents:
 
-Programming Assignment #1: Linear Regression (Week 2)
+Programming Assignment #1 (Week 2):
+- [Linear Regression from scratch]('https://github.com/raofida75/Data-Science-Courses/blob/main/Coursera%20--%20Machine-Learning/Week%202/ex1/GD%20Algorithm.ipynb') 
 
-Programming Assignment #2: Logistic Regression (Week 3)
+Programming Assignment #2 (Week 3): 
+- [Logistic Regression from scratch]('https://bit.ly/36aVczW')
 
-Programming Assignment #3: Multi-class Classification and Neural Networks (Week 4)
+Programming Assignment #3 (Week 4): 
+- [Multi-class Classification](https://bit.ly/353kFMq)
+- [Simple Neural Network](https://bit.ly/2U0fQNw)
 
-Programming Assignment #4: Neural Network Learning (Week 5)
+Programming Assignment #4 (Week 5): 
+- [Neural Network](https://bit.ly/2I9i0b0)
 
-Programming Assignment #5: Regularized Linear Regression and Bias/Variance (Week 6)
+Programming Assignment #5 (Week 6): 
+- [Regularized Linear Regression and Bias/Variance](https://bit.ly/3ez6lye)
 
-Programming Assignment #6: Support Vector Machines (Week 7)
+Programming Assignment #6 (Week 7): 
+- [Support Vector Machines](https://bit.ly/3lbvHF8)
+- [Spam Filter](https://bit.ly/3p8E7PZ)
 
-Programming Assignment #7: K-Means Clustering and PCA (Week 8)
+Programming Assignment #7 (Week 8): 
+- [K-Means Clustering](https://bit.ly/3eyWfgS) 
+- [Principle Component Analysis](https://bit.ly/3exm0yc) 
 
-Programming Assignment #8: Anomaly Detection and Recommender Systems (Week 9)
+Programming Assignment #8 (Week 9): 
+- [Anomaly Detection](https://bit.ly/38y65ij)
+- [Movie Recommender System](https://bit.ly/356iIP8)
