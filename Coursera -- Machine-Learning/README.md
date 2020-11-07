@@ -14,7 +14,7 @@ Programming Assignment #3 (Week 4):
 - [Simple Neural Network](https://bit.ly/2U0fQNw)
 
 Programming Assignment #4 (Week 5): 
-- [Neural Network](https://bit.ly/2I9i0b0)
+- [3 Layer Neural Network](https://bit.ly/2I9i0b0)
 
 Programming Assignment #5 (Week 6): 
 - [Regularized Linear Regression and Bias/Variance](https://bit.ly/3ez6lye)
